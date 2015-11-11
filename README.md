@@ -26,4 +26,6 @@ For client:
 ```
 g++ -o client client.cpp
 ```
-```./client```
+```
+./client
+```
