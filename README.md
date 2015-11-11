@@ -12,12 +12,18 @@ Requests:
 
 Command to compile server :
 
-'''g++ -o server -std=c++11 server.cpp'''
+```
+g++ -o server -std=c++11 server.cpp
+```
 
 and run server :
-''' ./server '''
+```
+./server 
+```
 
 For client:
 
-'''g++ -o client client.cpp'''
-'''./client'''
+```
+g++ -o client client.cpp
+```
+```./client```
